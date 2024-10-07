@@ -20,13 +20,13 @@ Iii. for Data Visualization
 -	Github for Portfolio Building
 -	POWERBI for Data Visualization
 
-###DATA CLEANING AND PREPARATION
+### DATA CLEANING AND PREPARATION
 The process of cleaning and preparing data involves difference steps which include:
 - 	Data loading and inspection
 -  Handling missing variables
 - 	Data cleaning and formatting 
 
-###DATA EXPLORATION 
+### DATA EXPLORATION 
 Data Exploration involves the exploring of data used during the course of training
 •	What is the total sum of amount generated?
 •	What is the total average of amount generated?
