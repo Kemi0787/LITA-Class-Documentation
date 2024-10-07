@@ -46,4 +46,8 @@ WHERE CONDITION = TRUE
 [LITA Excel Functions.xlsx](https://github.com/user-attachments/files/17279851/LITA.Excel.Functions.xlsx)
 
 [Pivot Tables File (1).xlsx](https://github.com/user-attachments/files/17279866/Pivot.Tables.File.1.xlsx)
+
+
+😃
+🖥️
 	
