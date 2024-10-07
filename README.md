@@ -1,6 +1,7 @@
 # LITA_Class_Documentation
 
 ### Project Title: Data Analysis Process
+---
  This project is to explain my data Analysis journey with LITA, starting from
 *	Microsoft  Excel
 *	SQL – Structure Query Language
@@ -12,9 +13,9 @@ The primary sources of Data used are data generated in the course of training or
 
 ### DATA ANALYSIS TOOLS
 - 	Microsoft Excel [Download Here](https://www.microsoft.com)
-i. For  Data Cleaning
-ii. For Data Analysis
-iii. for Data Visualization
+1. For  Data Cleaning
+2. For Data Analysis
+3. For Data Visualization
 
 - SQL- Structured Query Language for Query of Data
 -	Github for Portfolio Building
@@ -33,7 +34,7 @@ Data Exploration involves the exploring of data used during the course of traini
 - 	What is the number of regions?
 
  ### DATA ANALYSIS
- This is where some basic line codes or queries used during the analysis.
+ This is where we include some basic line codes or queries used during the analysis.
  
  ```SQL
 SELECT * FROM TABLE  EMPLOYEE
