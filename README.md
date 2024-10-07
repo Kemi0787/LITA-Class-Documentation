@@ -2,6 +2,23 @@
 
 ### Project Title: Data Analysis Process
 ---
+[DATA ANALYSIS SOURCES](#data-analysis-sources).
+
+
+[DATA ANALYSIS TOOLS](#data-analysis-tools)
+
+
+[DATA CLEANING AND PREPARATION](#data-cleaning-and-preparation)
+
+
+[DATA EXPLORATION](#data-exploration) 
+
+
+[DATA ANALYSIS](#data-analysis)
+
+
+[DATA VISUALISATION](#data-visualisation)
+
  This project is to explain my data Analysis journey with LITA, starting from
 *	Microsoft  Excel
 *	SQL – Structure Query Language
@@ -49,5 +66,5 @@ WHERE CONDITION = TRUE
 
 
 😃
-🖥️
+✈️
 	
