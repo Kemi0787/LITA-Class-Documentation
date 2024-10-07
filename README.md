@@ -39,9 +39,9 @@ Data Exploration involves the exploring of data used during the course of traini
  ```SQL
 SELECT * FROM TABLE  EMPLOYEE
 WHERE CONDITION = TRUE
+```
 
 ### DATA VISUALISATION
-
 
 
 
