@@ -8,7 +8,7 @@
 *	POWERBI-  Business Intelligence
 
 ### DATA ANALYSIS SOURCES
-The primary sources of Data used are data generated in the course of training or through Google Data, Kaggle, e.t.c.
+The primary sources of Data used are data generated in the course of training or through online source data e.g Google Data, Kaggle, e.t.c.
 
 ### DATA ANALYSIS TOOLS
 - 	Microsoft Excel [Download Here](https://www.microsoft.com)
@@ -33,7 +33,7 @@ Data Exploration involves the exploring of data used during the course of traini
 - 	What is the number of regions?
 
  ### DATA ANALYSIS
- This is the basic code used.
+ This is where some basic line codes or queries used during the analysis.
  
  ```SQL
 SELECT * FROM TABLE  EMPLOYEE
