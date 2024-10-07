@@ -32,8 +32,15 @@ Data Exploration involves the exploring of data used during the course of traini
 - 	What is the total average of amount generated?
 - 	What is the number of regions?
 
-![image](https://github.com/user-attachments/assets/64dad562-c396-4c3b-85fa-189bdbd35c78)
-   
+ ### DATA ANALYSIS
+ This is the basic code used.
+ 
+ ```SQL
+SELECT * FROM TABLE  EMPLOYEE
+WHERE CONDITION = TRUE
+
+
+
 
 
 
