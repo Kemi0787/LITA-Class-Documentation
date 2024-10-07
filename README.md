@@ -42,7 +42,4 @@ WHERE CONDITION = TRUE
 
 
 
-
-
-
-
+												
